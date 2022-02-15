@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### "Somewhere, something incredible is waiting to be known."
+####                                             - Carl Sagan
 
 <!--
 **bozkurtmert0/bozkurtmert0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
