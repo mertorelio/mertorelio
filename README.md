@@ -9,7 +9,7 @@ Hi, I'm Mert BOZKURT!
 
 <pre>
 📚 I student at Ondokuz Mayis University, Computer Engineering
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌟 Main language: Python
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
