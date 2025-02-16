@@ -11,7 +11,6 @@ Hi, I'm Mert !
 📝 I have a strong interest in Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌟 Main language: Python
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
 </pre>
 <hr>
 
